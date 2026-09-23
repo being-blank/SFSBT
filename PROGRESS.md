@@ -12,6 +12,8 @@
 
 - Created a responsive single-page site with sections for company profile, solutions, emergency preparedness, industries served, audit approach, commitment and contact.
 - Reorganized dense brochure copy into scannable descriptions and lists while preserving service categories and avoiding invented awards, clients, statistics, credentials or testimonials.
+- Incorporated the subsequently supplied service details: industrial fire system delivery, environmental treatment and compliance, Third-Party Inspection / independent industrial assessments, Fire NOC and EHS consultancy, and the explicitly optional manpower / shutdown support line.
+- Updated the solutions headline to “One safe workplace” and added “India” to the office address and `+91` to the displayed phone numbers.
 - Added sticky navigation, keyboard-operable mobile menu, skip link, visible focus treatment, phone/email actions, mobile contact bar, semantic page structure and reduced-motion handling.
 - Added a reliable back-to-top action that scrolls to document position zero, with a page-start anchor outside the sticky header and reduced-motion support.
 - Added page title, description, Open Graph and X/Twitter metadata, canonical URL placeholder based on the brochure-listed website, `robots.txt`, `sitemap.xml` and schema using only brochure contact facts.
@@ -29,8 +31,8 @@
 ## Items to confirm
 
 - Validate the public canonical domain and social preview image choices before launch.
-- Supply social profile URLs, confirm phone number formatting/availability, and clarify the exact TPI and environmental treatment scopes.
-- Confirm authorization and intended meaning for structural stability “certification.”
+- Supply social profile URLs and verify phone number availability.
+- Confirm authorization and intended meaning for structural stability “certification,” and availability of the optional manpower / shutdown support line.
 - Replace the brochure-sized JPEG logo with a web-resolution vector or transparent image if available; the brochure contains no QR image or social URLs.
 
 ## Current project structure
