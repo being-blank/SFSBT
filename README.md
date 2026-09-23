@@ -41,10 +41,10 @@ The source brochure is retained in the project root. The exported, unused brochu
 ## Content needing confirmation or replacement
 
 - Confirm that `ifsdurgapur.netlify.app` is the preferred public domain. Update the canonical URL, Open Graph URL, JSON-LD URL and `sitemap.xml` together if not.
-- Confirm the scope represented by the brochure's brief service labels `TPI` and `ETP/STP/WTP plant environmental and water treatment`; the page keeps these as listed and flags the missing scope.
-- Confirm whether the structural stability service's stated “certification” is within SFSBT's authorized offering before publication.
+- Confirm whether structural stability “certification” is within SFSBT's authorized offering before publication; the site includes structural assessment and inspection support but does not promise certification.
 - The brochure lists LinkedIn, Facebook and Instagram without profile URLs. Social links are omitted until URLs are supplied.
-- Confirm the preferred formatting and availability of the two listed phone numbers.
+- Verify that both listed phone numbers are current and staffed. The country code `+91` is shown in the contact details.
+- The industrial fire safety manpower and shutdown support line is marked optional; confirm availability before promoting it as a current service.
 - The brochure suggests a QR code but supplies no code or destination-specific QR asset; none has been invented.
 - Consider replacing the brochure's small JPEG logo with a high-resolution SVG or transparent PNG for crisp display at larger sizes.
 
