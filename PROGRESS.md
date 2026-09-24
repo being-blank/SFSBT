@@ -14,6 +14,8 @@
 - Reorganized dense brochure copy into scannable descriptions and lists while preserving service categories and avoiding invented awards, clients, statistics, credentials or testimonials.
 - Incorporated the subsequently supplied service details: industrial fire system delivery, environmental treatment and compliance, Third-Party Inspection / independent industrial assessments, Fire NOC and EHS consultancy, and the explicitly optional manpower / shutdown support line.
 - Updated the solutions headline to “One safe workplace” and added “India” to the office address and `+91` to the displayed phone numbers.
+- Added a Careers section and navigation link with the supplied potential role areas, competencies, qualifications and candidate qualities. It states that these are potential paths rather than confirmed vacancies and offers an email-draft CTA for profile submissions.
+- Added “Third Party Inspection” before the ETP / STP / WTP / RO list in the environmental service card, as requested.
 - Added sticky navigation, keyboard-operable mobile menu, skip link, visible focus treatment, phone/email actions, mobile contact bar, semantic page structure and reduced-motion handling.
 - Added a reliable back-to-top action that scrolls to document position zero, with a page-start anchor outside the sticky header and reduced-motion support.
 - Added page title, description, Open Graph and X/Twitter metadata, canonical URL placeholder based on the brochure-listed website, `robots.txt`, `sitemap.xml` and schema using only brochure contact facts.
