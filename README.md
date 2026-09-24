@@ -1,6 +1,6 @@
 # SFSBT Services website
 
-A lightweight, responsive, single-page website for SFSBT Services Private Limited, built from the supplied brochure.
+A lightweight, responsive, single-page website for SFSBT Services Private Limited, built from the supplied brochure and subsequent career-content updates.
 
 ## Run locally
 
@@ -45,6 +45,7 @@ The source brochure is retained in the project root. The exported, unused brochu
 - The brochure lists LinkedIn, Facebook and Instagram without profile URLs. Social links are omitted until URLs are supplied.
 - Verify that both listed phone numbers are current and staffed. The country code `+91` is shown in the contact details.
 - The industrial fire safety manpower and shutdown support line is marked optional; confirm availability before promoting it as a current service.
+- Career roles are presented as potential areas, not active vacancies. “Send your profile” opens an email draft to the published company email; no CV upload or application backend is configured.
 - The brochure suggests a QR code but supplies no code or destination-specific QR asset; none has been invented.
 - Consider replacing the brochure's small JPEG logo with a high-resolution SVG or transparent PNG for crisp display at larger sizes.
 
